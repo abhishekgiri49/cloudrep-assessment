@@ -1,0 +1,250 @@
+[
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f1",
+    "name": "Classic White T-Shirt",
+    "description": "A comfortable and stylish classic white t-shirt, perfect for everyday wear.",
+    "price": 25.99,
+    "imageUrl": "https://images.unsplash.com/photo-1739001406525-b7c5cd05fec2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "T-shirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f2",
+    "name": "Slim Fit Jeans (Blue)",
+    "description": "Durable slim\r\nfit jeans with a modern cut in classic blue.",
+    "price": 59.99,
+    "imageUrl": "https://images.unsplash.com/photo-1555689502-c4b22d76c56f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Pants"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f3",
+    "name": "Summer Floral Dress",
+    "description": "Light and airy\r\nfloral dress, perfect for warm weather.",
+    "price": 75,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1723914108893-ac3047a4f1df?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Dresses"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f4",
+    "name": "Casual Hoodie (Grey)",
+    "description": "Comfortable grey hoodie with a front pocket, ideal for lounging.",
+    "price": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1644084947934-9a8a769e8c87?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Hoodies"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f5",
+    "name": "Denim Jacket",
+    "description": "Classic denim\r\njacket, a timeless piece for any wardrobe.",
+    "price": 85,
+    "imageUrl": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Jackets"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f6",
+    "name": "Sporty Leggings (Black)",
+    "description": "High-waisted black leggings, perfect for workouts or casual wear.",
+    "price": 35.0,
+    "imageUrl": "https://images.unsplash.com/photo-1597460761632-ca59808ad268?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Activewear"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f7",
+    "name": "Striped Polo Shirt",
+    "description": "Comfortable polo shirt with classic stripes, suitable for various occasions.",
+    "price": 39.99,
+    "imageUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "Polo Shirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f8",
+    "name": "Chino Shorts (Beige)",
+    "description": "Lightweight chino shorts for a casual summer look.",
+    "price": 30.0,
+    "imageUrl": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "Shorts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6f9",
+    "name": "Elegant Maxi Dress",
+    "description": "Long, flowing maxi dress with intricate details, perfect for evenings.",
+    "price": 120.0,
+    "imageUrl": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "Dresses"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6fa",
+    "name": "Wool Blend Sweater",
+    "description": "Warm and soft wool blend sweater, ideal for colder days.",
+    "price": 65.0,
+    "imageUrl": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "Sweaters"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6fb",
+    "name": "Basic Crew Neck T-Shirt (Black)",
+    "description": "A versatile black crew neck t-shirt, a wardrobe essential.",
+    "price": 24.99,
+    "imageUrl": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "T-shirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6fc",
+    "name": "Straight Leg Trousers",
+    "description": "Classic straight leg trousers, suitable for formal or smart-casual wear.",
+    "price": 70.0,
+    "imageUrl": "https://images.unsplash.com/photo-1599443015574-be5fe8a05783?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "Trousers"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6fd",
+    "name": "Pleated Midi Skirt",
+    "description": "Fashionable pleated midi skirt, comfortable and chic.",
+    "price": 55.0,
+    "imageUrl": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "Skirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6fe",
+    "name": "Lightweight Rain Jacket",
+    "description": "Water-resistant jacket, ideal for unexpected showers.",
+    "price": 90.0,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1697750339429-14711ac344a5?q=80&w=664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Jackets"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a6ff",
+    "name": "Graphic Print T-Shirt",
+    "description": "Unique graphic print t-shirt for a personalized style.",
+    "price": 30.0,
+    "imageUrl": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+    "category": "T-shirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a700",
+    "name": "High-Waisted Skinny Jeans",
+    "description": "Stylish high-waisted skinny jeans for a flattering fit.",
+    "price": 64.99,
+    "imageUrl": "https://images.unsplash.com/photo-1475178626620-a4d074967452?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Pants"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a701",
+    "name": "Knitted Cardigan",
+    "description": "Soft knitted\r\ncardigan, perfect for layering.",
+    "price": 49,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664391753897-b12da2576eb5?q=80&w=754&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Cardigans"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a702",
+    "name": "Athletic Track Pants",
+    "description": "Comfortable track pants for sports or leisure.",
+    "price": 40,
+    "imageUrl": "https://images.unsplash.com/photo-1706550632280-208bde7a1a6e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Activewear"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a703",
+    "name": "V-Neck Sweater (Navy)",
+    "description": "Classic navy V-neck sweater, a staple for any wardrobe.",
+    "price": 58,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1733701621157-0a5b7d168a7f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Sweaters"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a704",
+    "name": "Short Sleeve Button-Up Shirt",
+    "description": "Lightweight button-up shirt, perfect for a smart-casual look.",
+    "price": 45,
+    "imageUrl": "https://images.unsplash.com/photo-1744208525808-66c60e0ea68c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Shirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a705",
+    "name": "A-Line Denim Skirt",
+    "description": "Versatile A-line\r\ndenim skirt, easy to pair with any top.",
+    "price": 48,
+    "imageUrl": "https://images.unsplash.com/photo-1694606019689-1c8b52e84d35?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Skirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a706",
+    "name": "Puffer Vest",
+    "description": "Lightweight puffer vest\r\nfor added warmth without bulk.",
+    "price": 70,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1707932500482-2bbc1a0f5db3?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Vests"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a707",
+    "name": "Oversized Sweatshirt",
+    "description": "Cozy\r\noversized sweatshirt for a relaxed fit.",
+    "price": 50,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1693161218384-ec9203e2a9c7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Sweatshirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a708",
+    "name": "Cargo Pants (Green)",
+    "description": "Durable\r\ncargo pants with multiple pockets, in army green.",
+    "price": 65,
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1698339571239-8c65d17adab7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Pants"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a709",
+    "name": "Sequin Party Dress",
+    "description": "Sparkling sequin dress for special occasions.",
+    "price": 150,
+    "imageUrl": "https://images.unsplash.com/photo-1626193744876-3ee5bfe05902?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Dresses"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a70a",
+    "name": "Long Sleeve Henley Shirt",
+    "description": "Comfortable long sleeve henley shirt, perfect for layering.",
+    "price": 38,
+    "imageUrl": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80",
+    "category": "Shirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a70b",
+    "name": "Distressed Denim Shorts",
+    "description": "Trendy distressed denim shorts for a casual summer look.",
+    "price": 32,
+    "imageUrl": "https://images.unsplash.com/photo-1651694558313-fdfc4ee862ba?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Shorts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a70c",
+    "name": "Blazer (Navy)",
+    "description": "Stylish navy blazer, perfect for smart-casual or formal occasions.",
+    "price": 110,
+    "imageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=776&q=80",
+    "category": "Jackets"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a70d",
+    "name": "Hooded Sweatshirt (White)",
+    "description": "Soft white hooded sweatshirt with a comfortable fit.",
+    "price": 47,
+    "imageUrl": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=772&q=80",
+    "category": "Sweatshirts"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a70e",
+    "name": "Patterned Blouse",
+    "description": "Lightweight blouse with an eye-catching pattern.",
+    "price": 42,
+    "imageUrl": "https://images.unsplash.com/photo-1694243382333-9e3244d9ba04?q=80&w=733&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "category": "Blouses"
+  },
+  {
+    "_id": "60d0fe4f7d6a4a0004c6a70f",
+    "name": "Relaxed Fit Chinos",
+    "description": "Comfortable relaxed fit chinos for a casual yet refined look.",
+    "price": 55,
+    "imageUrl": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+    "category": "Pants"
+  }
+]
